@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1340" viewBox="0 0 1200 1340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="1340" fill="url(#bg)"/>
+
+  <!-- 顶部 banner 网格 -->
+  <g opacity="0.06" stroke="#ffffff">
+    <path d="M0 40h1200M0 80h1200M0 120h1200M0 160h1200M0 200h1200M0 240h1200M0 280h1200"/>
+    <path d="M60 0v320M120 0v320M180 0v320M240 0v320M300 0v320M360 0v320M420 0v320M480 0v320M540 0v320M600 0v320M660 0v320M720 0v320M780 0v320M840 0v320M900 0v320M960 0v320M1020 0v320M1080 0v320M1140 0v320"/>
+  </g>
+  <rect x="1150" y="40" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="1100" y="250" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="1050" y="80" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="980" y="230" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="920" y="40" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="1180" y="170" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="40" y="260" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="200" y="280" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="320" y="30" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+  <rect x="116" y="50" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="50" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="63" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="63" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="89" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="89" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="102" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="102" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="115" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="115" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="115" width="13" height="13" fill="#f8fafc"/>
+<rect x="129" y="115" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="115" width="13" height="13" fill="#f8fafc"/>
+<rect x="155" y="115" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="128" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="128" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="128" width="13" height="13" fill="#f8fafc"/>
+<rect x="129" y="128" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="128" width="13" height="13" fill="#f8fafc"/>
+<rect x="155" y="128" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="141" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="141" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="168" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="180" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="103" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="168" y="180" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="193" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="103" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="168" y="193" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="206" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="103" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="206" width="13" height="13" fill="#8b5cf6"/>
+<rect x="129" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="206" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="168" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="168" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="245" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="245" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="245" width="13" height="13" fill="#0f172a"/>
+<rect x="194" y="245" width="13" height="13" fill="#0f172a"/>
+
+  <!-- 名字 -->
+  <text x="300" y="150" font-family="'Segoe UI', 'Consolas', monospace" font-size="62" font-weight="700" fill="url(#name)" filter="url(#glow)" letter-spacing="4">XING QIRUI</text>
+  <text x="302" y="202" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="30" fill="#f8fafc">邢栖瑞</text>
+  <text x="302" y="247" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22" fill="#67e8f9" filter="url(#glowSoft)">具身智能产品 &amp; 生态经理</text>
+  <text x="302" y="278" font-family="'Segoe UI', 'Consolas', monospace" font-size="16" fill="#94a3b8" letter-spacing="2">EMBODIED AI · PRODUCT &amp; ECOSYSTEM</text>
+
+  <!-- 分隔线 -->
+  <line x1="70" y1="340" x2="1130" y2="340" stroke="rgba(139,92,246,0.35)" stroke-width="1"/>
+
+  <!-- ABOUT -->
+  <polygon points="70,363 82,367 70,371 58,367" fill="#22d3ee"/><text x="100" y="372" font-family="'Segoe UI', 'Consolas', monospace" font-size="20" fill="#22d3ee" font-weight="bold" letter-spacing="2" text-anchor="start">ABOUT</text>
+  <rect x="70" y="406" width="345" height="64" rx="10" fill="#0b1020" stroke="rgba(139,92,246,0.35)" stroke-width="1.5"/>
+<polygon points="100,424 107,431 100,438 93,431" fill="#22d3ee"/>
+<text x="122" y="426" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="17" fill="#f8fafc" font-weight="bold" text-anchor="start">重庆大学</text>
+<text x="122" y="452" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="13" fill="#94a3b8" text-anchor="start">机器人工程（明月创新班）· 本科</text>
+<rect x="437" y="406" width="345" height="64" rx="10" fill="#0b1020" stroke="rgba(139,92,246,0.35)" stroke-width="1.5"/>
+<polygon points="467,424 474,431 467,438 460,431" fill="#22d3ee"/>
+<text x="489" y="426" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="17" fill="#f8fafc" font-weight="bold" text-anchor="start">香港大学</text>
+<text x="489" y="452" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="13" fill="#94a3b8" text-anchor="start">人工智能（Artificial Intelligence）· 硕士</text>
+<rect x="804" y="406" width="345" height="64" rx="10" fill="#0b1020" stroke="rgba(139,92,246,0.35)" stroke-width="1.5"/>
+<polygon points="834,424 841,431 834,438 827,431" fill="#22d3ee"/>
+<text x="856" y="426" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="17" fill="#f8fafc" font-weight="bold" text-anchor="start">智元机器人</text>
+<text x="856" y="452" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="13" fill="#94a3b8" text-anchor="start">具身智能生态发展经理</text>
+
+  <!-- EDUCATION -->
+  <polygon points="70,499 82,503 70,507 58,503" fill="#22d3ee"/><text x="100" y="508" font-family="'Segoe UI', 'Consolas', monospace" font-size="20" fill="#22d3ee" font-weight="bold" letter-spacing="2" text-anchor="start">EDUCATION</text>
+  <line x1="82" y1="540" x2="82" y2="735" stroke="rgba(139,92,246,0.35)" stroke-width="2"/>
+  <polygon points="82,548 89,555 82,562 75,555" fill="#22d3ee"/>
+<text x="110" y="554" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="16" fill="#f8fafc" font-weight="bold" text-anchor="start">人工智能（Artificial Intelligence）· 硕士</text>
+<text x="110" y="578" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#22d3ee" text-anchor="start">香港大学 · The University of Hong Kong</text>
+<text x="110" y="598" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#94a3b8" letter-spacing="1" text-anchor="start">2026 — 2027</text>
+<polygon points="82,668 89,675 82,682 75,675" fill="#22d3ee"/>
+<text x="110" y="674" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="16" fill="#f8fafc" font-weight="bold" text-anchor="start">机器人工程 · 本科</text>
+<text x="110" y="698" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#22d3ee" text-anchor="start">重庆大学 · 国家卓越工程师学院（明月创新班）</text>
+<text x="110" y="718" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#94a3b8" letter-spacing="1" text-anchor="start">2021 — 2025</text>
+
+  <!-- EXPERIENCE -->
+  <polygon points="70,761 82,765 70,769 58,765" fill="#22d3ee"/><text x="100" y="770" font-family="'Segoe UI', 'Consolas', monospace" font-size="20" fill="#22d3ee" font-weight="bold" letter-spacing="2" text-anchor="start">EXPERIENCE</text>
+  <line x1="82" y1="800" x2="82" y2="880" stroke="rgba(139,92,246,0.35)" stroke-width="2"/>
+  <polygon points="82,798 89,805 82,812 75,805" fill="#22d3ee"/>
+<text x="110" y="804" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="16" fill="#f8fafc" font-weight="bold" text-anchor="start">具身智能生态发展经理</text>
+<text x="110" y="828" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#22d3ee" text-anchor="start">上海智元机器人 · 解决方案与生态部</text>
+<text x="110" y="848" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#94a3b8" letter-spacing="1" text-anchor="start">2026.02 — 2026.09</text>
+<text x="110" y="872" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="13" fill="#94a3b8" text-anchor="start">开源技术生态体系搭建 · 开发者社区建设 · AGIBOT WORLD CHALLENGE 赛事运营 · 高校与社区生态合作</text>
+
+  <!-- STACK -->
+  <polygon points="70,951 82,955 70,959 58,955" fill="#22d3ee"/><text x="100" y="960" font-family="'Segoe UI', 'Consolas', monospace" font-size="20" fill="#22d3ee" font-weight="bold" letter-spacing="2" text-anchor="start">STACK</text>
+  <rect x="70" y="990" width="98" height="34" rx="6" fill="#22d3ee12" stroke="#22d3ee55" stroke-width="1.2"/><text x="119.0" y="1012" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#22d3ee" font-weight="bold" text-anchor="middle">AI Agent</text>
+<rect x="182" y="990" width="125" height="34" rx="6" fill="#22d3ee12" stroke="#22d3ee55" stroke-width="1.2"/><text x="244.5" y="1012" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#22d3ee" font-weight="bold" text-anchor="middle">Claude Code</text>
+<rect x="321" y="990" width="53" height="34" rx="6" fill="#22d3ee12" stroke="#22d3ee55" stroke-width="1.2"/><text x="347.5" y="1012" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#22d3ee" font-weight="bold" text-anchor="middle">ROS</text>
+<rect x="388" y="990" width="116" height="34" rx="6" fill="#22d3ee12" stroke="#22d3ee55" stroke-width="1.2"/><text x="446.0" y="1012" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#22d3ee" font-weight="bold" text-anchor="middle">SolidWorks</text>
+<rect x="518" y="990" width="107" height="34" rx="6" fill="#22d3ee12" stroke="#22d3ee55" stroke-width="1.2"/><text x="571.5" y="1012" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#22d3ee" font-weight="bold" text-anchor="middle">Isaac Sim</text>
+<rect x="639" y="990" width="80" height="34" rx="6" fill="#22d3ee12" stroke="#22d3ee55" stroke-width="1.2"/><text x="679.0" y="1012" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#22d3ee" font-weight="bold" text-anchor="middle">MuJoCo</text>
+<rect x="70" y="1038" width="86" height="34" rx="6" fill="#22c55e12" stroke="#22c55e55" stroke-width="1.2"/><text x="113.0" y="1060" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="13" fill="#22c55e" font-weight="bold" text-anchor="middle">生态运营</text>
+<rect x="170" y="1038" width="100" height="34" rx="6" fill="#22c55e12" stroke="#22c55e55" stroke-width="1.2"/><text x="220.0" y="1060" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="13" fill="#22c55e" font-weight="bold" text-anchor="middle">开发者社区</text>
+<rect x="284" y="1038" width="86" height="34" rx="6" fill="#22c55e12" stroke="#22c55e55" stroke-width="1.2"/><text x="327.0" y="1060" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="13" fill="#22c55e" font-weight="bold" text-anchor="middle">产品设计</text>
+
+  <!-- HONORS -->
+  <polygon points="70,1099 82,1103 70,1107 58,1103" fill="#22d3ee"/><text x="100" y="1108" font-family="'Segoe UI', 'Consolas', monospace" font-size="20" fill="#22d3ee" font-weight="bold" letter-spacing="2" text-anchor="start">HONORS</text>
+  <rect x="70" y="1138" width="8" height="8" fill="#22d3ee" transform="rotate(45 74 1142)"/>
+<text x="96" y="1146" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#cbd5e1" text-anchor="start">中国大学生 ICAN 创新创业大赛 · 国金</text>
+<rect x="70" y="1172" width="8" height="8" fill="#8b5cf6" transform="rotate(45 74 1176)"/>
+<text x="96" y="1180" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#cbd5e1" text-anchor="start">中国大学生创新创业大赛 · 全国一等奖</text>
+<rect x="70" y="1206" width="8" height="8" fill="#22c55e" transform="rotate(45 74 1210)"/>
+<text x="96" y="1214" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#cbd5e1" text-anchor="start">RoboCup 全国一等奖（2025）</text>
+<rect x="70" y="1240" width="8" height="8" fill="#67e8f9" transform="rotate(45 74 1244)"/>
+<text x="96" y="1248" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#cbd5e1" text-anchor="start">全国智能车竞赛 ROS 机器人 · 二等奖</text>
+<rect x="70" y="1274" width="8" height="8" fill="#22d3ee" transform="rotate(45 74 1278)"/>
+<text x="96" y="1282" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="14" fill="#cbd5e1" text-anchor="start">第一发明人专利 2 项</text>
+
+  <!-- 底部 -->
+  <line x1="70" y1="1290" x2="1130" y2="1290" stroke="rgba(139,92,246,0.35)" stroke-width="1"/>
+  <text x="600" y="1322" font-family="'Segoe UI', 'Consolas', monospace" font-size="13" fill="#94a3b8" text-anchor="middle" letter-spacing="3">▚▚▚▚▚  EMBODIED AI · PRODUCT &amp; ECOSYSTEM  ▚▚▚▚▚</text>
+</svg>
