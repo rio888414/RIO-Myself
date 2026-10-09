@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- 背景网格 -->
+  <g opacity="0.06" stroke="#ffffff">
+    <path d="M0 40h1200M0 80h1200M0 120h1200M0 160h1200M0 200h1200M0 240h1200M0 280h1200"/>
+    <path d="M60 0v320M120 0v320M180 0v320M240 0v320M300 0v320M360 0v320M420 0v320M480 0v320M540 0v320M600 0v320M660 0v320M720 0v320M780 0v320M840 0v320M900 0v320M960 0v320M1020 0v320M1080 0v320M1140 0v320"/>
+  </g>
+
+  <rect x="1150" y="40" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="1100" y="250" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="1050" y="80" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="980" y="230" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="920" y="40" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="1180" y="170" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="40" y="260" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+<rect x="200" y="280" width="6" height="6" fill="#a78bfa" opacity="0.6"/>
+<rect x="320" y="30" width="6" height="6" fill="#38bdf8" opacity="0.6"/>
+
+  <!-- 像素机器人 -->
+  <rect x="116" y="50" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="50" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="63" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="63" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="76" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="89" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="89" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="89" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="102" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="102" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="102" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="115" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="115" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="115" width="13" height="13" fill="#f8fafc"/>
+<rect x="129" y="115" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="115" width="13" height="13" fill="#f8fafc"/>
+<rect x="155" y="115" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="128" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="128" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="128" width="13" height="13" fill="#f8fafc"/>
+<rect x="129" y="128" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="128" width="13" height="13" fill="#f8fafc"/>
+<rect x="155" y="128" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="141" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="141" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="141" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="154" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="168" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="167" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="180" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="103" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="180" width="13" height="13" fill="#22d3ee"/>
+<rect x="168" y="180" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="193" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="103" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="129" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="193" width="13" height="13" fill="#22d3ee"/>
+<rect x="168" y="193" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="206" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="103" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="116" y="206" width="13" height="13" fill="#8b5cf6"/>
+<rect x="129" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="142" y="206" width="13" height="13" fill="#22d3ee"/>
+<rect x="155" y="206" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="116" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="129" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="142" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="155" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="168" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="219" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="103" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="168" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="232" width="13" height="13" fill="#0f172a"/>
+<rect x="77" y="245" width="13" height="13" fill="#0f172a"/>
+<rect x="90" y="245" width="13" height="13" fill="#0f172a"/>
+<rect x="181" y="245" width="13" height="13" fill="#0f172a"/>
+<rect x="194" y="245" width="13" height="13" fill="#0f172a"/>
+
+  <!-- 名字 -->
+  <text x="300" y="150" font-family="'Segoe UI', 'Consolas', monospace" font-size="62"
+        font-weight="700" fill="url(#name)" filter="url(#glow)" letter-spacing="4">XING QIRUI</text>
+
+  <!-- 中文名 -->
+  <text x="302" y="202" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="30"
+        fill="#f8fafc">邢栖瑞</text>
+
+  <!-- 定位语 -->
+  <text x="302" y="247" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="22"
+        fill="#67e8f9" filter="url(#glowSoft)">具身智能产品 &amp; 生态经理</text>
+  <text x="302" y="278" font-family="'Segoe UI', 'Consolas', monospace" font-size="16"
+        fill="#94a3b8" letter-spacing="2">EMBODIED AI · PRODUCT &amp; ECOSYSTEM</text>
+</svg>
